@@ -38,7 +38,6 @@
     "react-helmet": "latest",
     "react-icons": "latest",
     "react-intersection-observer": "latest",
-    "react-scripts": "5.0.1",
     "react-scroll": "latest",
     "react-scroll-parallax": "latest",
     "tailwind-merge": "^2.5.5",
